@@ -1,2 +1,2 @@
-# Anuii
+# Iz17
 python project
